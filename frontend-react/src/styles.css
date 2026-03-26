@@ -1,0 +1,39 @@
+body {
+  font-family: Arial;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin: auto;
+}
+
+.board {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.column {
+  background: #f4f5f7;
+  padding: 10px;
+  width: 300px;
+  border-radius: 8px;
+  min-height: 400px;
+}
+
+.task-card {
+  background: white;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.task {
+  background: white;
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
