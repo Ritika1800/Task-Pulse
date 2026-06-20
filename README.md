@@ -176,7 +176,8 @@ npm run dev
 ```
 > Runs at: `http://localhost:3000`
 
----
+<img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/3b34a835-d98f-4f36-9cfd-4f444369f536" />
+
 
 ## 📡 API Reference
 
