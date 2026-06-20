@@ -1,7 +1,7 @@
-package com.taskmanager.controller;
+package com.example.taskmanager.controller;
 
-import com.taskmanager.dto.*;
-import com.taskmanager.service.AuthService;
+import com.example.taskmanager.dto.*;
+import com.example.taskmanager.service.AuthService;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

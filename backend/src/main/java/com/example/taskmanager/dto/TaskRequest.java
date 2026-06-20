@@ -1,6 +1,6 @@
-package com.taskmanager.dto;
+package com.example.taskmanager.dto;
 
-import com.taskmanager.model.TaskStatus;
+import com.example.taskmanager.model.TaskStatus;
 import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;

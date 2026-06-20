@@ -1,5 +1,7 @@
-package com.taskmanager.model;
+package com.example.taskmanager.model;
 
+import com.example.taskmanager.model.Task;
+import com.example.taskmanager.model.User;
 import jakarta.persistence.*;
 import lombok.*;
 

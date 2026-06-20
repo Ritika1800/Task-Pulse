@@ -1,10 +1,10 @@
-package com.taskmanager.service;
+package com.example.taskmanager.service;
 
-import com.taskmanager.config.RedisChannels;
-import com.taskmanager.config.RedisPublisher;
-import com.taskmanager.dto.*;
-import com.taskmanager.model.*;
-import com.taskmanager.repository.*;
+import com.example.taskmanager.config.RedisChannels;
+import com.example.taskmanager.config.RedisPublisher;
+import com.example.taskmanager.dto.*;
+import com.example.taskmanager.model.*;
+import com.example.taskmanager.repository.*;
 import org.springframework.stereotype.Service;
 import java.util.List;
 

@@ -1,5 +1,7 @@
-package com.taskmanager.security;
+package com.example.taskmanager.security;
 
+import com.example.taskmanager.security.CustomUserDetailsService;
+import com.example.taskmanager.security.JwtAuthFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;

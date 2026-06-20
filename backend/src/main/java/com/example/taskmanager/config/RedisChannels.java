@@ -1,4 +1,4 @@
-package com.taskmanager.config;
+package com.example.taskmanager.config;
 
 public final class RedisChannels {
 

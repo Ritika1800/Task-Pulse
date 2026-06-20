@@ -1,6 +1,6 @@
-package com.taskmanager.repository;
+package com.example.taskmanager.repository;
 
-import com.taskmanager.model.Project;
+import com.example.taskmanager.model.Project;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProjectRepository extends JpaRepository<Project, Long> {

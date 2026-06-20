@@ -1,8 +1,8 @@
-package com.taskmanager.controller;
+package com.example.taskmanager.controller;
 
-import com.taskmanager.dto.*;
-import com.taskmanager.model.Project;
-import com.taskmanager.service.ProjectService;
+import com.example.taskmanager.dto.*;
+import com.example.taskmanager.model.Project;
+import com.example.taskmanager.service.ProjectService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

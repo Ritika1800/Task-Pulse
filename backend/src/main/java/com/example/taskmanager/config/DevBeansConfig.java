@@ -1,4 +1,4 @@
-package com.taskmanager.config;
+package com.example.taskmanager.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

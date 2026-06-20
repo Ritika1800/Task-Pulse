@@ -1,10 +1,10 @@
-package com.taskmanager.service;
+package com.example.taskmanager.service;
 
-import com.taskmanager.dto.*;
-import com.taskmanager.model.Project;
-import com.taskmanager.model.User;
-import com.taskmanager.repository.ProjectRepository;
-import com.taskmanager.repository.UserRepository;
+import com.example.taskmanager.dto.*;
+import com.example.taskmanager.model.Project;
+import com.example.taskmanager.model.User;
+import com.example.taskmanager.repository.ProjectRepository;
+import com.example.taskmanager.repository.UserRepository;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.stereotype.Service;
 

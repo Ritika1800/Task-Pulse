@@ -1,9 +1,10 @@
-package com.taskmanager.service;
+package com.example.taskmanager.service;
 
-import com.taskmanager.dto.*;
-import com.taskmanager.model.*;
-import com.taskmanager.repository.*;
-import com.taskmanager.security.JwtUtil;
+import com.example.taskmanager.dto.*;
+import com.example.taskmanager.model.*;
+import com.example.taskmanager.repository.*;
+import com.example.taskmanager.security.*;
+import com.example.taskmanager.security.JwtUtil;
 import org.springframework.security.authentication.*;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

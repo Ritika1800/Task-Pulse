@@ -1,6 +1,6 @@
-package com.taskmanager.repository;
+package com.example.taskmanager.repository;
 
-import com.taskmanager.model.Role;
+import com.example.taskmanager.model.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

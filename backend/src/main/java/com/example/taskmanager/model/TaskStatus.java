@@ -1,4 +1,4 @@
-package com.taskmanager.model;
+package com.example.taskmanager.model;
 
 public enum TaskStatus {
     TODO,

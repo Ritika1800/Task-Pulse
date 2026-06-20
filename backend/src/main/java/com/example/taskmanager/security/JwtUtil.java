@@ -1,4 +1,4 @@
-package com.taskmanager.security;
+package com.example.taskmanager.security;
 
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.Keys;

@@ -1,4 +1,4 @@
-package com.taskmanager.config;
+package com.example.taskmanager.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.data.redis.core.RedisTemplate;

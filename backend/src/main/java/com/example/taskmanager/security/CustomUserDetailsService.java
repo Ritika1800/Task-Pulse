@@ -1,7 +1,7 @@
-package com.taskmanager.security;
+package com.example.taskmanager.security;
 
-import com.taskmanager.model.User;
-import com.taskmanager.repository.UserRepository;
+import com.example.taskmanager.model.User;
+import com.example.taskmanager.repository.UserRepository;
 import org.springframework.security.core.userdetails.*;
 import org.springframework.stereotype.Service;
 
